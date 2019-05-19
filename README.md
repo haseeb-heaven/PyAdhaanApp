@@ -12,6 +12,10 @@ Support for **Python 3.0** and lower _versions_.</br>
 **Clean** and _intuitive_ UI.
 Calendar data in **CSV** format.
 
+## Download PyAdhaanApp executable from **PIP**:</br>
+Command : `pip install PyAdhaanApps`</br>
+ [PyAdhaanApp project on PIP](https://pypi.org/project/PyAdhaanApps/)
+ 
 ## Get adhaan timings by city and country:
 ![city_country](https://github.com/haseeb-heaven/PyAdhaanApp/blob/master/resources/prayer_timings_city.png?raw=true "") 
 
