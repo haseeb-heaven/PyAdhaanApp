@@ -51,7 +51,3 @@ All the error and **exception handling** are done by module itself so you dont h
 VERSION INFO :
 PyAdhaanApp Version : V 1.0</br>
 Dated : 18/05/2019.</br>
-Written and maintained by HaseeB Mir (haseebmir.hm@gmail.com)</br>
-
-
-
